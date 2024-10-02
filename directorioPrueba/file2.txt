@@ -1,0 +1,4 @@
+Este archivo no menciona la palabra clave varias veces.
+Sin embargo, contiene información relevante sobre programación.
+Los scripts son herramientas poderosas para automatizar tareas.
+Python es solo uno de muchos lenguajes disponibles.

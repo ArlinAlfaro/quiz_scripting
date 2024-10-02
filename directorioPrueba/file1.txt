@@ -1,0 +1,4 @@
+Python es un lenguaje de programación.
+Es versátil y ampliamente usado en múltiples áreas.
+Este archivo tiene varias líneas que mencionan Python.
+Python se puede usar para desarrollo web, ciencia de datos, y más.

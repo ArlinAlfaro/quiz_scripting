@@ -1,0 +1,4 @@
+Aquí no hay muchas menciones de Python.
+El análisis de este archivo debería reflejar eso.
+Contar las líneas y palabras es una tarea básica.
+Sin embargo, buscar una palabra específica requiere más cuidado.
